@@ -1,2 +1,2 @@
 # D-3-Challenge
- Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the `app.js` file of your homework directory—make sure you pull in the data from `data.csv` by using the `d3.csv` function. Your scatter plot should ultimately appear like the image at the top of this section.
+ Using the D3 techniques, I created a scatter plot that represents each state with circle elements. I coded the graphic's in the `app.js` file of my directory. I pulled in data from `data.csv` by using the `d3.csv` function. My scatter plotm will appear like an image at the top of the section.
